@@ -1,3 +1,3 @@
 def warizan():
-    a = 4/0
+    a = 4/2
     print(a)
