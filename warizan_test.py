@@ -1,0 +1,3 @@
+import warizan
+
+warizan.warizan()
